@@ -1,0 +1,56 @@
+{
+  "name": "ult-action",
+  "version": "1.0.0",
+  "description": "A custom element to wire up events and methods on different elements.",
+  "main": "dist/ult-action.js",
+  "homepage": "https://github.com/cledev/ult-action",
+  "author": {
+    "name": "cledev",
+    "email": "cledev@mail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cledev/ult-action.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cledev/ult-action/issues"
+  },
+  "devDependencies": {
+    "browserify": "^7.0.0",
+    "intern": "^2.2.2",
+    "gulp": "^3.8.7",
+    "6to5ify": "^2.0.0",
+    "connect-redirection": "0.0.1",
+    "gulp-bump": "^0.1.11",
+    "gulp-connect": "^2.2.0",
+    "gulp-gh-pages": "^0.4.0",
+    "gulp-git": "^0.5.5",
+    "gulp-size": "^1.1.0",
+    "gulp-sourcemaps": "^1.2.8",
+    "gulp-uglify": "^1.0.2",
+    "gulp-util": "^3.0.1",
+    "gulp-zip": "^2.0.2",
+    "run-sequence": "^1.0.2",
+    "ultralight-platform": "Ultralight-Elements/ultralight-platform",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.0.0"
+  },   
+  "keywords": [
+    "web-components",
+    "webcomponents",
+    "web components",
+    "custom-elements",
+    "customelements",
+    "custom elements",
+    "elements",
+    "ultra-light",
+    "ultralight",
+    "ultralight-elements",
+    "ultralightelements",
+    "polymer",
+    "x-tags",
+    "bosonic",
+    "brick"
+  ], 
+  "license": "MIT"  
+}
